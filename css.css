@@ -1,0 +1,9 @@
+body
+{
+	position: absolute;
+}
+script
+{
+	position: relative;
+	top: 1000px;
+}
